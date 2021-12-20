@@ -1,0 +1,27 @@
+.div-login{
+    width: 245px;
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 10vh;
+    background-color: white;
+} 
+
+input{
+    width: 95%;
+    border: 1px solid #dbdbdb;
+    padding: 5px;
+    margin: 2px 0;
+    border-radius: 5px;
+    background-color: #fafafa;
+    box-shadow: none;
+}
+
+.btnCenterCls{
+    margin-left: 55px;
+}
